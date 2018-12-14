@@ -14,6 +14,9 @@ balle.x = 0
 balle.y = 0
 balle.rayon = 10
 balle.colle = false
+
+local balls = {}
+
 -- vitesse balle en px / s
 balle.vx = 0
 balle.vy = 0
